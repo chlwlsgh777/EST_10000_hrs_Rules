@@ -1,16 +1,142 @@
-* {
-  box-sizing: border-box;
+@font-face {
+  font-family: "OTEnjoystoriesBA";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/OTEnjoystoriesBA.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "GmarketSansBold";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GmarketSansMedium";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.woff2")
+      format("woff2"),
+    url("https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.woff")
+      format("woff"),
+    url("https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.otf")
+      format("opentype");
 }
 
 body {
   background-color: #5b2386;
-  font-family: "Gmarket Sans", sans-serif;
-  line-height: 1.5;
+  font-family: "GmarketSansMedium";
+  color: white;
+  font-size: 24px;
+
 }
 
 .container {
-  width: 100%;
-  max-width: 600px;
+  width: 50%;
+  max-width: 600px; /*데스크톱에서 너무 넓어지지 않도록*/
+  min-width: 280px; /*모바일에서 너무 좁아지지않게*/
   margin: 0 auto;
   padding: 32px 16px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  margin-bottom: 52px;
+}
+
+.sub-title {
+  font-family: "OTEnjoystoriesBA";
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  color: rgba(245, 223, 77, 1);
+  margin-bottom: 80px;
+}
+
+.title-desc {
+  position: relative;
+  min-width: 373px;
+  min-height: 85px;
+  margin-bottom: 100px;
+  font-family: 'Gmarket Sans', sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  /* gap: 20px; */
+  
+}
+.desc {
+  position: absolute;
+}
+
+.title-desc span {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.input-section {
+  width: 771px;
+
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.input-div {
+  max-width: 771px;
+  min-height: 132px;
+  /* margin: 0 auto; */
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 120px;
+  gap: 20px;
+}
+
+input {
+  border-radius: 8px;
+  padding: 16px 40px;
+  margin: 0px 20px;
+}
+
+.cal-btn {
+  display: flex;
+}
+
+.click-img {
+  width: 64px;
+  height: 72px;
+}
+
+.cal-btn button {
+  background-color: rgba(252, 238, 33, 1);
+  padding: 20px 50px;
+  border-radius: 12px;
+  font-size: 24px;
+  color: rgba(91, 35, 134, 1);
+  font-weight: 500;
 }
