@@ -42,4 +42,8 @@ HTML과 CSS를 이용하여 1만 시간의 법칙 페이지 과제 페이지 클
 
 - 반응형
 
-![alt text](<127.0.0.1_5500_pages_index.html (1).png>)
+![alt text](<127.0.0.1_5500_pages_index.html (5).png>)
+
+- 모달 창
+
+![alt text](image-1.png)

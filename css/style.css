@@ -367,6 +367,9 @@ input {
     margin-bottom: 40px;
   }
 
+  .result-section {
+    word-break: keep-all;
+  }
   .result-section span {
     font-size: 36px;
   }
@@ -376,41 +379,34 @@ input {
   }
 
   .modal-content {
-    width: 90%;
-    padding: 24px;
+    width: 90%; /* 전체 너비의 90% */
+    max-width: 320px;
+    padding: 20px 16px;
+    border-radius: 16px;
   }
 
   .modal-text {
-    margin: 0 20px 30px;
+    margin: 0 12px 24px;
   }
 
   .modal-text strong {
-    font-size: 48px;
+    font-size: 36px; /* 숫자 크기 줄임 */
+    word-break: keep-all;
   }
 
   .modal-text p {
-    font-size: 20px;
+    font-size: 18px;
+    word-break: keep-all;
   }
 
   .modal-content img {
-    max-width: 200px;
-    margin-bottom: 40px;
+    max-width: 180px;
+    margin-bottom: 32px;
   }
 
   .modal-close {
-    padding: 14px 28px;
-    font-size: 18px;
-  }
-
-  .copyright {
-    width: auto;
-    font-size: 10px;
-    padding: 0 12px;
-    text-align: center;
-  }
-
-  .copyright img {
-    margin: 0 auto 20px;
-    max-width: 60%;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 10px;
   }
 }
