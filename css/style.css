@@ -293,11 +293,31 @@ input {
   html,
   body {
     min-width: 300px;
+    font-size: 16px;
   }
 
+  .title img {
+    width: 80%;
+    max-width: 280px;
+    height: auto;
+  }
   .title-desc {
     flex-direction: column;
     gap: 12px;
+    font-size: 16px;
+    line-height: 22px;
+    min-width: auto;
+    min-height: auto;
+    padding: 0 12px;
+  }
+
+  .title-desc span {
+    font-size: 18px;
+  }
+
+  .title-desc img {
+    width: 28px;
+    height: 26px;
   }
 
   .input-row {
@@ -308,22 +328,89 @@ input {
   input {
     width: 90%;
     max-width: 250px;
+    height: auto;
+    padding: 14px 20px;
+  }
+
+  .cal-btn {
+    margin-bottom: 80px;
+  }
+
+  .cal-btn button {
+    padding: 16px 30px;
+    font-size: 11px;
+  }
+
+  .click-img {
+    width: 48px;
+    height: 56px;
+    margin-top: 15px;
   }
 
   .btn-group {
-    flex-direction: column;
+    flex-direction: row; /* 수평 유지 */
+    flex-wrap: wrap; /* 공간 부족 시 줄바꿈 허용 */
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 80px;
   }
 
-  .title img {
-    width: 80%;
-    max-width: 300px;
-  }
-
-  .result-section span {
-    font-size: 2rem;
+  .go-btn,
+  .share-btn {
+    padding: 14px 24px;
+    font-size: 18px;
+    flex-shrink: 1;
   }
 
   .sub-title {
-    font-size: 1.5rem;
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+
+  .result-section span {
+    font-size: 36px;
+  }
+
+  .result-section p {
+    margin-bottom: 80px;
+  }
+
+  .modal-content {
+    width: 90%;
+    padding: 24px;
+  }
+
+  .modal-text {
+    margin: 0 20px 30px;
+  }
+
+  .modal-text strong {
+    font-size: 48px;
+  }
+
+  .modal-text p {
+    font-size: 20px;
+  }
+
+  .modal-content img {
+    max-width: 200px;
+    margin-bottom: 40px;
+  }
+
+  .modal-close {
+    padding: 14px 28px;
+    font-size: 18px;
+  }
+
+  .copyright {
+    width: auto;
+    font-size: 10px;
+    padding: 0 12px;
+    text-align: center;
+  }
+
+  .copyright img {
+    margin: 0 auto 20px;
+    max-width: 60%;
   }
 }

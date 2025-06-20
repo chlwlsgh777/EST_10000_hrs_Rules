@@ -33,3 +33,13 @@ HTML과 CSS를 이용하여 1만 시간의 법칙 페이지 과제 페이지 클
 │  └─index.html
 └README.md
 ```
+
+## 📺미리보기
+
+- pc
+
+![alt text](image.png)
+
+- 반응형
+
+![alt text](<127.0.0.1_5500_pages_index.html (1).png>)
