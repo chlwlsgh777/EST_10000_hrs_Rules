@@ -379,7 +379,7 @@ input {
   }
 
   .modal-content {
-    width: 90%; /* 전체 너비의 90% */
+    width: 90%;
     max-width: 320px;
     padding: 20px 16px;
     border-radius: 16px;
@@ -390,7 +390,7 @@ input {
   }
 
   .modal-text strong {
-    font-size: 36px; /* 숫자 크기 줄임 */
+    font-size: 36px;
     word-break: keep-all;
   }
 
