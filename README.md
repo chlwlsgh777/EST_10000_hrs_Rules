@@ -36,12 +36,8 @@
 
 ## 📺미리보기
 
-- pc
-
-<img width="1440px" src="https://github.com/user-attachments/assets/fd8eabb5-7318-4b6c-92ef-a11834390897"/>
-
-- 반응형
-
-<img width="768px" height="1140px" src="https://github.com/user-attachments/assets/362f963b-b89d-462c-9e83-65c4d6bdc194" />
-
-- 모달 창
+<p>
+<img src="https://github.com/user-attachments/assets/fd8eabb5-7318-4b6c-92ef-a11834390897"/>
+<img src="https://github.com/user-attachments/assets/362f963b-b89d-462c-9e83-65c4d6bdc194" />
+<img src="https://github.com/user-attachments/assets/a40e60ed-ebde-4593-81da-5c135d6ac98d" />
+</p>
