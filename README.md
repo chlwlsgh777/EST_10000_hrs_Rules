@@ -37,13 +37,11 @@
 ## 📺미리보기
 
 - pc
-![Image](https://github.com/user-attachments/assets/584211c1-6387-4f21-b648-414cd8928486)
 
+<img width="1440px" src="https://github.com/user-attachments/assets/fd8eabb5-7318-4b6c-92ef-a11834390897"/>
 
 - 반응형
 
-![alt text](<127.0.0.1_5500_pages_index.html (5).png>)
+<img width="768px" height="1140px" src="https://github.com/user-attachments/assets/362f963b-b89d-462c-9e83-65c4d6bdc194" />
 
 - 모달 창
-
-![alt text](image-1.png)
