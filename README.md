@@ -37,8 +37,8 @@
 ## 📺미리보기
 
 - pc
+![Image](https://github.com/user-attachments/assets/584211c1-6387-4f21-b648-414cd8928486)
 
-![alt text](image.png)
 
 - 반응형
 
