@@ -1,8 +1,6 @@
-# 1만 시간의 법칙 프로젝트
+# 1만시간 배포 URL
 
-## 1만 시간의 법칙
-
-[1만 시간의 법칙 페이지 이동](https://chlwlsgh777.github.io/EST_10000_hrs_Rules/pages/index.html)
+- [1만 시간의 법칙](https://chlwlsgh777.github.io/EST_10000_hrs_Rules/pages/index.html)
 
 ## 📗프로젝트 소개
 
@@ -11,8 +9,7 @@
 
 ## 🛠️기술 스텍
 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
 ## 📌구현 요소
 
@@ -35,6 +32,6 @@
 ```
 
 ## 📺미리보기
-<img src= "https://github.com/user-attachments/assets/a61cf08f-791d-452f-95fe-84312aa7bb02" width=1000px /> pc화면 | <img src="https://github.com/user-attachments/assets/1b7f5f65-e1b7-416a-a807-8b6b6ce07846" width=1000px /> 반응형 화면
----|---|
-<img src="https://github.com/user-attachments/assets/0315865f-7bf0-4606-af26-fde980bb8b64" width=500px> 모달창
+
+| <img src= "https://github.com/user-attachments/assets/a61cf08f-791d-452f-95fe-84312aa7bb02" width=1000px height= 600px/> pc화면 | <img src="https://github.com/user-attachments/assets/1b7f5f65-e1b7-416a-a807-8b6b6ce07846" width=1000px height=600px/> 반응형 화면 | <img src="https://github.com/user-attachments/assets/0315865f-7bf0-4606-af26-fde980bb8b64" width=1000px height=600px> 모달창 |
+| ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
