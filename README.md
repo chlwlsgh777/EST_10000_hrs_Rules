@@ -35,11 +35,6 @@
 ```
 
 ## 📺미리보기
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/fd8eabb5-7318-4b6c-92ef-a11834390897" align="center" width="32%" /><figcaption>pc화면</figcaption>
-
-<img src="https://github.com/user-attachments/assets/362f963b-b89d-462c-9e83-65c4d6bdc194" align="center" width="32%" /><figcaption>반응형화면</figcaption>
-<img src="https://github.com/user-attachments/assets/a40e60ed-ebde-4593-81da-5c135d6ac98d" align="center" width="32%" /><figcaption>모달창</figcaption>
-
-</p>
+<img src= "https://github.com/user-attachments/assets/a61cf08f-791d-452f-95fe-84312aa7bb02" width=1000px /> pc화면 | <img src="https://github.com/user-attachments/assets/1b7f5f65-e1b7-416a-a807-8b6b6ce07846" width=1000px /> 반응형 화면
+---|---|
+<img src="https://github.com/user-attachments/assets/0315865f-7bf0-4606-af26-fde980bb8b64" width=500px> 모달창
